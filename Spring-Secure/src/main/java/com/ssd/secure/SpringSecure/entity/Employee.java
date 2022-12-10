@@ -17,5 +17,6 @@ public class Employee {
 	private Long empId;
 	private String ename;
 	private String address;
+	private int age;
 
 }
