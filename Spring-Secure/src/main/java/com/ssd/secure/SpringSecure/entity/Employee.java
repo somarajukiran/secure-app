@@ -18,5 +18,6 @@ public class Employee {
 	private String ename;
 	private String address;
 	private int age;
+	private String phno;
 
 }
